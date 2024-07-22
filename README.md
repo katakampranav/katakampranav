@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Advanced Machine Learning and Deep Learning Techniques**
 
-- 👯 I’m looking to collaborate on **AI/ML Projects and Research**
+- 🤝 I’m looking to collaborate on **AI/ML Projects and Research**
 
 - 💬 Ask me about **Machine Learning, Deep Learning, Data Preprocessing, Model Evaluation, and AI/ML Frameworks**
 
