@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5840c934-27c6-44f3-8eca-6b76b2642c02" alt="Coding" width="500">
+  <img src="https://github.com/user-attachments/assets/5840c934-27c6-44f3-8eca-6b76b2642c02" alt="Coding" width="1000">
 </p>
 
 <h1 align="center">Hello World!! 👋, I'm Pranav Shankar</h1>
