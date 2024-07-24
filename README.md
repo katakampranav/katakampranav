@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5840c934-27c6-44f3-8eca-6b76b2642c02" alt="Coding" width="500">
+</p>
+
 <h1 align="center">Hello World!! 👋, I'm Pranav Shankar</h1>
 <h3 align="center">An aspiring Artificial Intelligence & Machine Learning Engineer.</h3>
 
