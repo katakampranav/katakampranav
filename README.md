@@ -45,8 +45,6 @@
 
 <img align="right" alt="Coding" width="500" src="https://github.com/user-attachments/assets/5bb92449-7276-47e1-915b-c22be823dc31">
 
-<a align="left" href="https://github.com/katakampranav" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=katakampranav&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
 <a align="left" href="http://www.github.com/katakampranav"><img src="https://github-readme-stats.vercel.app/api?username=katakampranav&show_icons=true&hide=&count_private=true&title_color=0f172a&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true&show_icons=true" alt="katakampranav's GitHub stats" /></a>
 
 <a align="left" href="http://www.github.com/katakampranav"><img src="https://streak-stats.demolab.com?user=katakampranav&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"/></a>
