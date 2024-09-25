@@ -12,7 +12,7 @@
 <img align="right" alt="Coding" width="450" src="https://github.com/user-attachments/assets/1da9aa54-467d-4f12-be05-e32f0dbde294">
 
 <p align="center">
-  <em>"Fueling innovation with algorithms and coffee! ☕💻 , Transforming data into insights, one model at a time! 📊🔍 , Bridging the gap between ideas and execution through code! 🚀✨"</em>
+  <em>"Fueling innovation with algorithms and tea! ☕💻 , Transforming data into insights, one model at a time! 📊🔍 , Bridging the gap between ideas and execution through code! 🚀✨"</em>
 </p>
 
 - 🌍  I'm from Hyderabad, India
