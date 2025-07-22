@@ -17,7 +17,9 @@
 
 - 🌍  I'm from Hyderabad, India
 
-- 🌱 I’m currently learning **Advanced Machine Learning and Deep Learning Techniques**
+- 💻 Check out my work on my [**Portfolio.**](https://pranav-portfolio-website-theta.vercel.app/)
+
+- 🌱 I’m currently learning **MLOPS**
 
 - 🤝 I’m looking to collaborate on **AI/ML Projects and Research**
 
